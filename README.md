@@ -2,3 +2,4 @@
 
 ## Members:
 - Michael Cassara
+- Nathan Evans
